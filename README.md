@@ -1,2 +1,0 @@
-# appAi
-ai
