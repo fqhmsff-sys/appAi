@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 150" role="img" aria-label="Pelon">
+<g id="face">
+<path fill="#111318" d="M83 48C72 34 74 18 91 7c7-4 15-6 23-7-2 13-8 24-19 34 11-4 21-11 31-20 2 13-3 24-14 33 24 6 42 28 42 54 0 31-25 56-56 56S42 132 42 101c0-19 9-36 24-46 5 3 11 5 17 5Z"/>
+<g id="eyes" fill="#fff"><ellipse cx="87" cy="98" rx="9" ry="13"/><ellipse cx="135" cy="98" rx="9" ry="13"/></g>
+<path fill="#fff" d="M74 127c9 7 20 10 29 10s20-3 29-10c-8 2-18 3-29 3s-21-1-29-3Z"/>
+</g><text x="190" y="108" font-family="Inter,Arial,sans-serif" font-size="58" font-weight="800" letter-spacing="-3" fill="#111318">Pelon</text>
+<style>
+#face{transform-box:fill-box;transform-origin:50% 50%;animation:typeFace 2.7s ease-in-out infinite}
+#eyes{transform-box:fill-box;transform-origin:50% 50%;animation:typeEyes 2.1s cubic-bezier(.45,.05,.55,.95) infinite}
+@keyframes typeFace{0%,100%{transform:translate(0,2px) rotate(0)}18%{transform:translate(-5px,5px) rotate(-2deg)}38%{transform:translate(7px,7px) rotate(2deg)}58%{transform:translate(-8px,4px) rotate(-2.5deg)}78%{transform:translate(5px,6px) rotate(2deg)}}
+@keyframes typeEyes{0%,10%{transform:translate(0,7px)}22%{transform:translate(-6px,8px)}38%{transform:translate(6px,8px)}54%{transform:translate(-3px,10px)}70%{transform:translate(5px,9px)}86%,100%{transform:translate(0,7px)}}
+</style></svg>
