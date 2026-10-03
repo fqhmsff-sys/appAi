@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title>Pelon</title>
+  <path fill="currentColor" d="M39.3 38.7C31.6 29.2 33.2 18 43.9 8.2c3.8-3.5 8.5-5.8 13.8-7.1-1.1 8.1-4.9 15.1-11.4 21.1 6.5-2.5 12.7-6.7 18.5-12.4 1.2 8.1-1.7 15-8.8 20.5 14.4 3.7 25.1 16.8 25.1 32.3 0 18.3-14.8 33.2-33.2 33.2S14.7 80.9 14.7 62.6c0-11.2 5.6-21.1 14.3-27.1 2.9 1.9 6.3 3 10.3 3.2Z"/>
+  <ellipse cx="40.8" cy="61.4" rx="6.3" ry="9.1" fill="var(--pelon-logo-eye,#fff)"/>
+  <ellipse cx="69.4" cy="61.4" rx="6.3" ry="9.1" fill="var(--pelon-logo-eye,#fff)"/>
+  <path fill="var(--pelon-logo-eye,#fff)" d="M33 78.7c5.2 4 11.8 6 17.1 6s11.9-2 17.1-6c-4.5 1.1-10.2 1.7-17.1 1.7s-12.6-.6-17.1-1.7Z"/>
+</svg>
