@@ -1,0 +1,16 @@
+name = "pelon-v1-local-test"
+main = "worker/index.js"
+compatibility_date = "2026-10-03"
+
+[vars]
+PELON_MOCK = "false"
+PELON_SYNTHESIS_PROVIDER = "gemini"
+# Isi provider yang mau dites, misalnya:
+# PELON_ENABLED_PROVIDERS = "gemini,mistral,openrouter"
+
+[assets]
+directory = "./frontend"
+binding = "ASSETS"
+
+# Kunci rahasia untuk test lokal disimpan di .dev.vars.
+# Jangan commit .dev.vars ke GitHub.
